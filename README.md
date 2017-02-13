@@ -1,6 +1,3 @@
-README file edited~
-It is a new README file.
-
-haha~
-
-README second added~.
+#README
+##생활코딩 git 강의 따라하기
+###하는김에 마크업문서도 만들어보기
